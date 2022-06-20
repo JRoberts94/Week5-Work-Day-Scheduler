@@ -1,0 +1,111 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+  background-color: aqua;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+
+.time-col{
+  text-align: center;
+  padding-top: 30px;
+  color: #000000;
+}
+#text-box{
+  width: 600px;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+.color-index{
+  display: flex;
+  justify-content: center;
+}
+
+#past{
+  background-color: #8e8c8c;
+  padding-left: 10px;
+  width: 100px;
+}
+#present{
+  background-color: #e6392f;
+  padding-left: 10px;
+  width: 100px;
+}
+#future{
+  background-color: #49e849;
+  padding-left: 10px;
+  width: 100px;
+}
+.past {
+  background-color: #8e8c8c;
+  color: white;
+  
+}
+
+.present {
+  background-color: #e6392f;
+  color: white;
+}
+
+.future {
+  background-color: #49e849;
+  color: white;
+}
+
+.button-div{
+  padding-bottom: 20px;
+  padding-top: 20px;
+  width: 60px;
+
+}
+
+#saveBtn {
+  border-left: 1px solid black;
+  border-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #2506d5;
+  color: white;
+  width: 120px;
+  
+}
+
+#saveBtn i:hover {
+  font-size: 100px;
+  transition: all 0.3s ease-in-out;
+}
+
