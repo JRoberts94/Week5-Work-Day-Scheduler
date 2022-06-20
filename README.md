@@ -40,6 +40,7 @@ CSS
 JavaScript
 JQuery
 Moment.js
+BootStrap
 
 
 ## Links
