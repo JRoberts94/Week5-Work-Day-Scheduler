@@ -9,7 +9,7 @@ function startClock(){
 
     }, 1000);
 }
-
+ 
 function createTimeBlock(hour){
     
     //i should see, 6am-7pm time blocks for the day
