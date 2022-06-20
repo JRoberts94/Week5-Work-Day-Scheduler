@@ -43,6 +43,6 @@ Moment.js
 
 
 ## Links
-* [Link to deployed Website]()
-* [Link to github Repository]()
+* [Link to deployed Website](https://jroberts94.github.io/Week5-Work-Day-Scheduler/)
+* [Link to github Repository](https://github.com/JRoberts94/Week5-Work-Day-Scheduler)
 * ![Screenshot](./assets/images/Screenshot.png)
